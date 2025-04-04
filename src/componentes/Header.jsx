@@ -149,7 +149,7 @@ const Navbar = () => {
                 <span>Categorías</span>
               </NavLink>
               <NavLink 
-                to="/categorias"
+                to="/productos"
                 className={({ isActive }) => `flex items-center py-2 ${isActive ? activeTextStyle : normalTextStyle}`}
                 onClick={() => setIsMenuOpen(false)}
               >

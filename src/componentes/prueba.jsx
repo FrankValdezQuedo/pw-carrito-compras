@@ -8,42 +8,42 @@ const ProductList = () => {
       nombre: "Smartwatch Pro",
       precio: 129.99,
       descripcion: "Reloj inteligente con monitor de ritmo cardíaco y notificaciones",
-      imagen: "/api/placeholder/300/300"
+      imagen: "https://elcomercio.pe/resizer/wUi6R9JD2TGV5DnmdjZKGMpjJVg=/1920x768/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ICHXD7PQARGKFGDZC4CBOD4YI4.jpg"
     },
     {
       id: 2,
       nombre: "Auriculares Bluetooth",
       precio: 79.99,
       descripcion: "Auriculares inalámbricos con cancelación de ruido",
-      imagen: "/api/placeholder/300/300"
+      imagen: "https://elcomercio.pe/resizer/wUi6R9JD2TGV5DnmdjZKGMpjJVg=/1920x768/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ICHXD7PQARGKFGDZC4CBOD4YI4.jpg"
     },
     {
       id: 3,
       nombre: "Cámara Digital 4K",
       precio: 349.99,
       descripcion: "Cámara de alta resolución con estabilización de imagen",
-      imagen: "/api/placeholder/300/300"
+      imagen: "https://elcomercio.pe/resizer/wUi6R9JD2TGV5DnmdjZKGMpjJVg=/1920x768/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ICHXD7PQARGKFGDZC4CBOD4YI4.jpg"
     },
     {
       id: 4,
       nombre: "Tablet Premium",
       precio: 299.99,
       descripcion: "Tablet de 10 pulgadas con pantalla retina y procesador rápido",
-      imagen: "/api/placeholder/300/300"
+      imagen: "https://elcomercio.pe/resizer/wUi6R9JD2TGV5DnmdjZKGMpjJVg=/1920x768/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ICHXD7PQARGKFGDZC4CBOD4YI4.jpg"
     },
     {
       id: 5,
       nombre: "Altavoz Portátil",
       precio: 59.99,
       descripcion: "Altavoz inalámbrico resistente al agua con 20 horas de batería",
-      imagen: "/api/placeholder/300/300"
+      imagen: "https://elcomercio.pe/resizer/wUi6R9JD2TGV5DnmdjZKGMpjJVg=/1920x768/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ICHXD7PQARGKFGDZC4CBOD4YI4.jpg"
     },
     {
       id: 6,
       nombre: "Teclado Mecánico",
       precio: 89.99,
       descripcion: "Teclado gaming con retroiluminación RGB y switches mecánicos",
-      imagen: "/api/placeholder/300/300"
+      imagen: "https://elcomercio.pe/resizer/wUi6R9JD2TGV5DnmdjZKGMpjJVg=/1920x768/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ICHXD7PQARGKFGDZC4CBOD4YI4.jpg"
     }
   ];
 
